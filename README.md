@@ -14,4 +14,8 @@ Task 1: Start a lesson and save your progress
 
 Task 2: Change language
 
+### Wireflows
 
+![figma wireflow](Screen%20Shot%202022-05-24%20at%2011.06.05%20PM.png)
+
+![other wireflow](High%20Fidelity%20Prototype%20Wireflow.png)
